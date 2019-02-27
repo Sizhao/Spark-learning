@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class HelloWorldJava {
     public static void main(String[] args){
 
-        SparkConf conf = new SparkConf().setMaster("local").setAppName("HelloWorlJava");
+        SparkConf conf = new SparkConf().setMaster("local").setAppName("HelloWorldJava");
 
         JavaSparkContext sc = new JavaSparkContext(conf);
 

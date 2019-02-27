@@ -5,7 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 object WordCount {
 
   def main(args: Array[String]): Unit = {
-    val conf = new SparkConf().setMaster("local").setAppName("WordCoun")
+    val conf = new SparkConf().setMaster("local").setAppName("WordCount")
 
     val sc = new SparkContext(conf)
 

@@ -16,7 +16,7 @@ public class WordCountJava {
 
     public static void main(String[] args){
 
-        SparkConf conf = new SparkConf().setMaster("local").setAppName("WordCounJava");
+        SparkConf conf = new SparkConf().setMaster("local").setAppName("WordCountJava");
 
         JavaSparkContext sc = new JavaSparkContext(conf);
         countJava(sc);

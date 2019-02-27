@@ -5,7 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 object HelloWorld {
 
   def main(args: Array[String]): Unit = {
-    val conf = new SparkConf().setMaster("local").setAppName("HelloWorl")
+    val conf = new SparkConf().setMaster("local").setAppName("HelloWorld")
 
     val sc = new SparkContext(conf)
 
