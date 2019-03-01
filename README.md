@@ -9,5 +9,4 @@
 
 [Spark入门（三）--Spark经典的单词统计](https://juejin.im/post/5c768f5b6fb9a049b348a811 "Spark入门（三）--Spark经典的单词统计")
 
-
-
+[Spark入门（四）--Spark的map、flatMap、mapToPair](https://juejin.im/post/5c77e383f265da2d8f474e29 "Spark入门（三）--Spark经典的单词统计")
