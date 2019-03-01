@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827ab5e6-7621-4303-80b0-bd2776874ba7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld$$anonfun$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorldJava.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap$$anonfun$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMapJava$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMapJava.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapToPair$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapToPair.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava.class" afterPath="" />
-    </list>
+    <list default="true" id="827ab5e6-7621-4303-80b0-bd2776874ba7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -597,7 +563,7 @@
       <workItem from="1551266947053" duration="8141000" />
       <workItem from="1551360615868" duration="5211000" />
       <workItem from="1551403297598" duration="1141000" />
-      <workItem from="1551441071730" duration="1235000" />
+      <workItem from="1551441071730" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="HelloWorld程序以及单词计数程序">
       <created>1551274411468</created>
@@ -634,11 +600,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551442614868</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="增加第五节">
+      <created>1551442819700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551442819700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15728000" />
+    <option name="totallyTimeSpent" value="15737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="314" y="23" width="1680" height="976" extended-state="0" />
