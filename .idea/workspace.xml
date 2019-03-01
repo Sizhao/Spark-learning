@@ -2,7 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827ab5e6-7621-4303-80b0-bd2776874ba7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spark/SparkReduceByKeyJava.java" afterPath="$PROJECT_DIR$/src/main/java/spark/SparkReduceByKeyJava.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld$$anonfun$main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorld.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/HelloWorldJava.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMapJava$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkFlatMapJava.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$$anonfun$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapJava.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapToPair$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkMapToPair.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduce$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduce$$anonfun$main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduce$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduce.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKey$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKey$$anonfun$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKey$$anonfun$main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKey$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKey.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKeyJava$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKeyJava$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceByKeyJava.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceJava$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceJava$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/SparkReduceJava.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$$anonfun$main$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spark/WordCountJava.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="21" selection-end-column="0" />
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceByKey.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -60,8 +107,8 @@
       <file leaf-file-name="SparkReduceByKeyJava.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceByKeyJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="486">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -539,7 +586,7 @@
       <workItem from="1551266947053" duration="8141000" />
       <workItem from="1551360615868" duration="5211000" />
       <workItem from="1551403297598" duration="1141000" />
-      <workItem from="1551441071730" duration="5020000" />
+      <workItem from="1551441071730" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="HelloWorld程序以及单词计数程序">
       <created>1551274411468</created>
@@ -594,11 +641,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19513000" />
+    <option name="totallyTimeSpent" value="19565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="35" width="1680" height="976" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -610,8 +656,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18620269" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -958,7 +1004,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="21" selection-end-column="0" />
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -968,15 +1014,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceByKey.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/spark/SparkReduceByKeyJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="486">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

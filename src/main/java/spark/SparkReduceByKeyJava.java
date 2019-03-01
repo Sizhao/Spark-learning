@@ -32,7 +32,7 @@ public class SparkReduceByKeyJava {
             }
         });
 
-        
+
         System.out.println(numData.reduceByKey(new Function2<Integer, Integer, Integer>() {
             @Override
             public Integer call(Integer integer, Integer integer2) throws Exception {
