@@ -12,3 +12,5 @@
 [Spark入门（四）--Spark的map、flatMap、mapToPair](https://juejin.im/post/5c77e383f265da2d8f474e29 "Spark入门（四）--Spark的map、flatMap、mapToPair")
 
 [Spark入门（五）--Spark的reduce和reduceByKey](https://juejin.im/post/5c791d4fe51d453ed866248a "Spark入门（五）--Spark的reduce和reduceByKey")
+
+[Spark入门（六）--Spark的combineByKey、sortBykey](https://juejin.im/post/5c7a58426fb9a049a42fc190 "Spark入门（六）--Spark的combineByKey、sortBykey")
