@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827ab5e6-7621-4303-80b0-bd2776874ba7" name="Default" comment="增加第六节">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/spark/SparkIntersectionAndSubtract.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/spark/SparkIntersectionAndSubtractJava.java" />
+    <list default="true" id="827ab5e6-7621-4303-80b0-bd2776874ba7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -400,7 +398,7 @@
       <workItem from="1551441071730" duration="5668000" />
       <workItem from="1551489670041" duration="6789000" />
       <workItem from="1551531520340" duration="641000" />
-      <workItem from="1551597409126" duration="7506000" />
+      <workItem from="1551597409126" duration="7547000" />
     </task>
     <task id="LOCAL-00001" summary="HelloWorld程序以及单词计数程序">
       <created>1551274411468</created>
@@ -458,11 +456,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551531561092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加第七节">
+      <created>1551605757041</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551605757042</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35097000" />
+    <option name="totallyTimeSpent" value="35138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-67" y="-1052" width="1680" height="976" extended-state="0" />
@@ -535,7 +540,8 @@
     <MESSAGE value="HelloWorld程序以及单词计数程序" />
     <MESSAGE value="增加第五节" />
     <MESSAGE value="增加第六节" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加第六节" />
+    <MESSAGE value="增加第七节" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加第七节" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
