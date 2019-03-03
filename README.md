@@ -14,3 +14,5 @@
 [Spark入门（五）--Spark的reduce和reduceByKey](https://juejin.im/post/5c791d4fe51d453ed866248a "Spark入门（五）--Spark的reduce和reduceByKey")
 
 [Spark入门（六）--Spark的combineByKey、sortBykey](https://juejin.im/post/5c7a58426fb9a049a42fc190 "Spark入门（六）--Spark的combineByKey、sortBykey")
+
+[Spark入门（七）--Spark的intersection、subtract、union和distinct](https://juejin.im/post/5c7b92276fb9a049bb7d0d10 "Spark入门（七）--Spark的intersection、subtract、union和distinct")
